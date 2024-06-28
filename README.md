@@ -4,7 +4,7 @@
 <div align="center">
 </p> 
 <div align="center">
-  <img src="https://i.imgur.com/g2i6Xwz.jpeg" alt="Your Profile Picture" width="700px" height="700">
+  <img src="https://i.imgur.com/g2i6Xwz.jpeg" alt="Your Profile Picture" width="350px" height="350">
 
 - **𓄂𐎓🐼мαѕтєя мιη∂ 𒐕꯭꯭𒐕꯭꯭ν3•┼⃖🐬**
 
