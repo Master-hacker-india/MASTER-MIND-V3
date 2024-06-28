@@ -5,9 +5,9 @@
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-        "run": "pm2 start . --deep-monitoring --attach --name Anita_0.1 || node .",
-        "start": "pm2 start . --attach --name Anita_0.1",
-        "stop": "pm2 stop Anita_0.1"
+        "run": "pm2 start . --deep-monitoring --attach --name Master_0.1 || node .",
+        "start": "pm2 start . --attach --name Master_0.1",
+        "stop": "pm2 stop Master_0.1"
     },
     "author": "MASTER-MIND-V3",
     "dependencies": {
@@ -72,10 +72,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+.git"
+        "url": "git+https://github.com/Master-hacker-india/MASTER-MIND-V3.git"
     },
     "bugs": {
-        "url": "/issues"
+        "url": "https://github.com/Master-hacker-india/MASTER-MIND-V3/issues"
     },
-    "homepage": "#readme"
+    "homepage": "https://github.com/Master-hacker-india/MASTER-MIND-V3#readme"
 }
