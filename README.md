@@ -7,3 +7,9 @@
   <img src="https://i.imgur.com/g2i6Xwz.jpeg" alt="Your Profile Picture" width="700px" height="700">
 
 - **𓄂𐎓🐼мαѕтєя мιη∂ 𒐕꯭꯭𒐕꯭꯭ν3•┼⃖🐬**
+
+## *NOTE*
+*MASTER-MIND-V3 lauch date coming soon*
+
+## *Any problem contact Owner*
+[`Owner`](https://wa.me/+919883457657?text=*᭕Broo+MASTER-MIND-V3+When_will_it_be_launched?🕊*)
